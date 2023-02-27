@@ -1,0 +1,50 @@
+
+img {
+    width: 350px;
+    
+}
+
+h1{
+   color:red; 
+}
+div{
+    font-size: 28px;
+
+}
+img{
+    width:300px;
+
+}
+
+header {
+    background-color:lightgreen;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+    color: grey;
+  }
+  nav {
+    float: left;
+    width: 30%;
+    height: 300px; /* only for demonstration, should be removed */
+    background: #ccc;
+    padding: 20px;
+  }
+  section:after {
+    content: "";
+    display: table;
+    clear: both;
+    width: 100px;;
+  }
+  table{
+    width: 80%;
+    
+  }
+  p{
+    font-size: 18px;
+  }
+  .container{
+    width: 350px;
+    height:225px;
+  }
+  
